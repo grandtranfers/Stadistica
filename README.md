@@ -1,1 +1,1 @@
-estdistica
+estadistica
